@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/aacheng2000/acme-getHerokuToWork/issues"
   },
-  "homepage": "https://github.com/aacheng2000/acme-getHerokuToWork#readme"
+  "homepage": "https://github.com/aacheng2000/acme-getHerokuToWork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
